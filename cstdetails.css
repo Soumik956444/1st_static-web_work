@@ -1,0 +1,32 @@
+
+
+.section h1{
+ font-size: 30px;
+ font-weight: 400;
+ text-align: center;
+ padding: 2rem;
+}
+
+.section .container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.section .container img{
+    width: 40rem;
+    padding-bottom: 2rem;
+    border-radius: 5px;
+}
+
+.section .container h3{
+    font-size: 25px;
+    font-weight: 200;
+}
+
+a{
+    list-style: none;
+    
+}
+
+
